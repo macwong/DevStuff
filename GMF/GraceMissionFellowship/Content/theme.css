@@ -1,0 +1,127 @@
+﻿body {
+	padding-top: 20px;
+}
+
+h3.gmf-h3 {
+	color: #428BCA;
+	margin-bottom: 3px;
+}
+
+.navbar-default.gmf-default {
+	border-color: #428BCA;
+}
+
+#map_canvas {
+	width: 500px;
+	height: 400px;
+}
+
+/*.container.gmf-container {
+	padding: 0;
+}*/
+
+.gmf-page-header {
+	border-bottom: 1px solid #428BCA;
+	margin: 20px 0 20px;
+	padding-bottom: 9px;
+}
+
+.navbar-default .navbar-nav.gmf-nav > li > a {
+	color: #428BCA;
+}
+.navbar-default .navbar-nav.gmf-nav > li.active > a,
+.navbar-default .navbar-nav.gmf-nav > li > a:hover {
+	color: #555;
+}
+
+.theme-dropdown .dropdown-menu {
+	display: block;
+	position: static;
+	margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+	margin: 5px 0;
+}
+
+.gmf-head {
+	line-height: 20px;
+	background-color: #ffffff;
+	border: 1px solid transparent;
+	border-radius: 5px 5px 0 0;
+	-webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
+	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
+}
+
+.gmf-header {
+	border-color: #428bca;
+}
+
+	.gmf-header > .gmf-heading {
+		color: #ffffff;
+		background-color: #428bca;
+		border-color: #428bca;
+		padding: 10px;
+		background-image: linear-gradient(to bottom, #428BCA 0px, #357EBD 100%);
+		background-repeat: repeat-x;
+	}
+
+.gmf-logo {
+	width: 100%;
+}
+
+.gmf-title {
+	font-size: 20px;
+	margin-bottom: 0;
+	margin-top: 0;
+}
+
+/* Thin out the marketing headings */
+.featurette-heading {
+	font-weight: 300;
+	line-height: 1;
+	letter-spacing: -1px;
+}
+
+.clear {
+	margin-bottom: 20px;
+}
+
+h4 {
+	color: #999;
+	text-transform: uppercase;
+	font-size: 14px;
+	font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	font-weight: bold;
+	margin-top: 10px;
+}
+
+.footer-text {
+	color: #999;
+	font-size: 12px;
+	font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+}
+
+.gmf-footer {
+	background-image: linear-gradient(to bottom,#f5f5f5 0,#e8e8e8 100%);
+	background-repeat: repeat-x;
+}
+
+@media (min-width: 768px) {
+	.featurette-heading {
+		font-size: 50px;
+	}
+}
+
+@media (min-width: 992px) {
+	.featurette-heading {
+		margin-top: 100px;
+	}
+}
+
+/*@media (max-width: 767px) {
+	.container.gmf-container {
+		padding-left: 15px;
+	}
+}*/
