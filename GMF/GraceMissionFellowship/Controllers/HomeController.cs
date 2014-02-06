@@ -1,8 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Web.Mvc;
+﻿using System.Web.Mvc;
+using GraceMissionFellowship.Helpers;
+using GraceMissionFellowship.Models;
 
 namespace GraceMissionFellowship.Controllers
 {
@@ -13,7 +11,8 @@ namespace GraceMissionFellowship.Controllers
 
 		public ActionResult Index()
 		{
-			return View();
+			PageModel vm = new PageModel(PageType.Home);
+			return View("Index", vm);
 		}
 
 		public ActionResult Test1()
