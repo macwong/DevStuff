@@ -61,19 +61,19 @@
 					<h4>Senior Pastor</h4>
 					<div><b>Ps Emori Sauturaga</b></div>
 					<div>0401 723 505</div>
-					<div><a href="mozalli98@yahoo.com">mozalli98@yahoo.com</a></div>
+					<div><a href="mailto:mozalli98@yahoo.com">mozalli98@yahoo.com</a></div>
 				</div>
 				<div class="col-sm-4">
 					<h4>Associate Pastor</h4>
 					<div><b>Ps Noah Peyroux</b></div>
 					<div>0422 806 830</div>
-					<div><a href="nkp2007@myacn.net.au">nkp2007@myacn.net.au</a></div>
+					<div><a href="mailto:nkp2007@myacn.net.au">nkp2007@myacn.net.au</a></div>
 				</div>
 				<div class="col-sm-4">
 					<h4>Associate Pastor</h4>
 					<div><b>Ps Karen Peyroux</b></div>
 					<div>0419 245 907</div>
-					<div><a href="mozalli98@yahoo.com">nkp2007@tpg.com.au</a></div>
+					<div><a href="mailto:nkp2007@tpg.com.au">nkp2007@tpg.com.au</a></div>
 				</div>
 			</div>
 		</div>
@@ -102,19 +102,18 @@
 						<h4>Contact us</h4>
 						<div class="footer-text">Ps Emori Sauturaga</div>
 						<div class="footer-text">0401 723 505</div>
-						<div class="footer-text"><a href="mozalli98@yahoo.com">mozalli98@yahoo.com</a></div>
+						<div class="footer-text"><a href="mailto:mozalli98@yahoo.com">mozalli98@yahoo.com</a></div>
 						<br />
 						<div class="footer-text">Ps Noah Peyroux</div>
 						<div class="footer-text">0422 806 830</div>
-						<div class="footer-text"><a href="nkp2007@myacn.net.au">nkp2007@myacn.net.au</a></div>
+						<div class="footer-text"><a href="mailto:nkp2007@myacn.net.au">nkp2007@myacn.net.au</a></div>
 						<br />
 						<div class="footer-text">Ps Karen Peyroux</div>
 						<div class="footer-text">0419 245 907</div>
-						<div class="footer-text"><a href="mozalli98@yahoo.com">nkp2007@tpg.com.au</a></div>
+						<div class="footer-text"><a href="mailto:nkp2007@tpg.com.au">nkp2007@tpg.com.au</a></div>
 					</div>
 					<!-- /.col-sm-4 -->
 					<div class="col-sm-3 text-center">
-						<h4>Australian Christian Churches</h4>
 						<img class="img-thumbnail" src="../../Content/Images/logo.gif" />
 					</div>
 					<!-- /.col-sm-4 -->

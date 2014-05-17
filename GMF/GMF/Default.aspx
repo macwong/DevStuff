@@ -61,7 +61,7 @@
 								formerly Assemblies of God in Australia (AOG). We are a church which focuses on God the Father, God the Son
 								(Jesus) and God the Holy Spirit.
 							</p>
-							<a role="button" class="btn btn-primary" href="AboutUs.aspx">More about us »</a>
+							<a role="button" class="btn btn-primary" href="AboutUs.aspx">Learn more »</a>
 						</div>
 					</div>
 				</div>
@@ -90,7 +90,7 @@
 						</div>
 						<div class="panel-body">
 							<p>
-								Senior Pastor Emori Sauturaga, and Associate Pastors Noah Peyroux and Karen Peyroux are committed to
+								Senior Pastor Emori Sauturaga, Associate Pastors Noah and Karen Peyroux, Albert Kamau and Rait Sool are committed to
 								their vision of providing a fellowship that searches for the lost and brings them into the Kingdom of God.
 								With friendly and loving people, we endeavour to make you feel at home with us.
 							</p>
@@ -126,19 +126,18 @@
 						<h4>Contact us</h4>
 						<div class="footer-text">Ps Emori Sauturaga</div>
 						<div class="footer-text">0401 723 505</div>
-						<div class="footer-text"><a href="mozalli98@yahoo.com">mozalli98@yahoo.com</a></div>
+						<div class="footer-text"><a href="mailto:mozalli98@yahoo.com">mozalli98@yahoo.com</a></div>
 						<br />
 						<div class="footer-text">Ps Noah Peyroux</div>
 						<div class="footer-text">0422 806 830</div>
-						<div class="footer-text"><a href="nkp2007@myacn.net.au">nkp2007@myacn.net.au</a></div>
+						<div class="footer-text"><a href="mailto:nkp2007@myacn.net.au">nkp2007@myacn.net.au</a></div>
 						<br />
 						<div class="footer-text">Ps Karen Peyroux</div>
 						<div class="footer-text">0419 245 907</div>
-						<div class="footer-text"><a href="mozalli98@yahoo.com">nkp2007@tpg.com.au</a></div>
+						<div class="footer-text"><a href="mailto:nkp2007@tpg.com.au">nkp2007@tpg.com.au</a></div>
 					</div>
 					<!-- /.col-sm-4 -->
 					<div class="col-sm-3 text-center">
-						<h4>Australian Christian Churches</h4>
 						<img class="img-thumbnail" src="../../Content/Images/logo.gif" />
 					</div>
 					<!-- /.col-sm-4 -->
