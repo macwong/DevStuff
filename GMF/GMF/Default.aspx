@@ -24,9 +24,9 @@
 					<div class="navbar-collapse collapse">
 						<ul class="nav navbar-nav gmf-nav">
 							<li class="active"><a href="#">Home</a></li>
-							<li><a href="../About/">About Us</a></li>
-							<li><a href="../Service/">Services</a></li>
-							<li><a href="../Contact/">Contact Us</a></li>
+							<li><a href="AboutUs.aspx">About Us</a></li>
+							<li><a href="Services.aspx">Services</a></li>
+							<li><a href="ContactUs.aspx">Contact Us</a></li>
 						</ul>
 					</div>
 					<!--/.nav-collapse -->
@@ -44,7 +44,7 @@
 					<p class="lead">
 						Our purpose is to make known the Word of God the Father, God the Son Jesus, and God the Holy Spirit, here on Earth as they are in Heaven.
 					</p>
-					<p><a role="button" class="btn btn-success btn-lg" href="../About/">Learn more »</a></p>
+					<p><a role="button" class="btn btn-success btn-lg" href="AboutUs.aspx">Learn more »</a></p>
 				</div>
 				<!-- /.col-sm-7 -->
 			</div>
@@ -61,7 +61,7 @@
 								formerly Assemblies of God in Australia (AOG). We are a church which focuses on God the Father, God the Son
 								(Jesus) and God the Holy Spirit.
 							</p>
-							<a role="button" class="btn btn-primary" href="../About/">More about us »</a>
+							<a role="button" class="btn btn-primary" href="AboutUs.aspx">More about us »</a>
 						</div>
 					</div>
 				</div>
@@ -78,7 +78,7 @@
 							<p>
 								As well as our Sunday services, we have "Connect Groups" in people's homes for fellowship, prayer and studying the Bible.
 							</p>
-							<a role="button" class="btn btn-primary" href="../Service/">Services »</a>
+							<a role="button" class="btn btn-primary" href="Services.aspx">Services »</a>
 						</div>
 					</div>
 				</div>
@@ -94,7 +94,7 @@
 								their vision of providing a fellowship that searches for the lost and brings them into the Kingdom of God.
 								With friendly and loving people, we endeavour to make you feel at home with us.
 							</p>
-							<a role="button" class="btn btn-primary" href="../Contact/">Contact us »</a>
+							<a role="button" class="btn btn-primary" href="ContactUs.aspx">Contact us »</a>
 						</div>
 					</div>
 				</div>
@@ -109,10 +109,10 @@
 				<div class="row">
 					<div class="col-sm-3 text-center">
 						<h4>Site Map</h4>
-						<a href="../Home/" class="footer-text">Home</a><br />
-						<a href="../About/" class="footer-text">About Us</a><br />
-						<a href="../Service/" class="footer-text">Services</a><br />
-						<a href="../Contact/" class="footer-text">Contact Us</a>
+						<a href="Default.aspx" class="footer-text">Home</a><br />
+						<a href="AboutUs.aspx" class="footer-text">About Us</a><br />
+						<a href="Services.aspx" class="footer-text">Services</a><br />
+						<a href="ContactUs.aspx" class="footer-text">Contact Us</a>
 					</div>
 					<div class="col-sm-3 text-center">
 						<h4>Church Services</h4>

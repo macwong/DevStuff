@@ -23,10 +23,10 @@
 					</div>
 					<div class="navbar-collapse collapse">
 						<ul class="nav navbar-nav gmf-nav">
-							<li><a href="../Home/">Home</a></li>
-							<li class="active"><a href="../About/">About Us</a></li>
-							<li><a href="../Service/">Services</a></li>
-							<li><a href="../Contact/">Contact Us</a></li>
+							<li><a href="Default.aspx">Home</a></li>
+							<li class="active"><a href="AboutUs.aspx">About Us</a></li>
+							<li><a href="Services.aspx">Services</a></li>
+							<li><a href="ContactUs.aspx">Contact Us</a></li>
 						</ul>
 					</div>
 					<!--/.nav-collapse -->
@@ -87,10 +87,10 @@
 				<div class="row">
 					<div class="col-sm-3 text-center">
 						<h4>Site Map</h4>
-						<a href="../Home/" class="footer-text">Home</a><br />
-						<a href="../About/" class="footer-text">About Us</a><br />
-						<a href="../Service/" class="footer-text">Services</a><br />
-						<a href="../Contact/" class="footer-text">Contact Us</a>
+						<a href="Default.aspx" class="footer-text">Home</a><br />
+						<a href="AboutUs.aspx" class="footer-text">About Us</a><br />
+						<a href="Services.aspx" class="footer-text">Services</a><br />
+						<a href="ContactUs.aspx" class="footer-text">Contact Us</a>
 					</div>
 					<div class="col-sm-3 text-center">
 						<h4>Church Services</h4>
