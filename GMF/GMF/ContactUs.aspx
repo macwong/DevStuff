@@ -33,10 +33,10 @@
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-sm-4">
+				<div class="col-sm-5">
 					<img class="img-thumbnail" src="../../Content/Images/staticmap.png" alt="" />
 				</div>
-				<div class="col-sm-8">
+				<div class="col-sm-7">
 					<div class="gmf-page-header">
 						<h3 class="gmf-h3">Grace Mission Fellowship Location</h3>
 					</div>

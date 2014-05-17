@@ -61,10 +61,12 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\carousel.css" />
     <Content Include="Content\Images\bg.png" />
+    <Content Include="Content\Images\emori.jpg" />
     <Content Include="Content\Images\gmf-header.png" />
     <Content Include="Content\Images\gmf-logo.jpg" />
     <Content Include="Content\Images\logo.gif" />
     <Content Include="Content\Images\placeholder.png" />
+    <Content Include="Content\Images\service.jpg" />
     <Content Include="Content\Images\staticmap.png" />
     <Content Include="Content\justified-nav.css" />
     <Content Include="Content\Site.css" />
