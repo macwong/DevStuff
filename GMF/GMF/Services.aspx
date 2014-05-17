@@ -34,7 +34,7 @@
 			</div>
 			<div class="row">
 				<div class="col-sm-4">
-					<img class="img-thumbnail" src="../../Content/Images/placeholder.png" alt="" />
+					<img class="img-thumbnail" src="../../Content/Images/service.jpg" alt="" />
 				</div>
 				<div class="col-sm-8">
 					<div class="gmf-page-header">
