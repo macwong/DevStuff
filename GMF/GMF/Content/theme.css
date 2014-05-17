@@ -8,17 +8,13 @@ h3.gmf-h3 {
 }
 
 .navbar-default.gmf-default {
-	border-color: #428BCA;
+	padding: 10px 0;
 }
 
 #map_canvas {
 	width: 500px;
 	height: 400px;
 }
-
-/*.container.gmf-container {
-	padding: 0;
-}*/
 
 .gmf-page-header {
 	border-bottom: 1px solid #428BCA;
@@ -32,6 +28,11 @@ h3.gmf-h3 {
 .navbar-default .navbar-nav.gmf-nav > li.active > a,
 .navbar-default .navbar-nav.gmf-nav > li > a:hover {
 	color: #555;
+}
+
+.navbar-default .navbar-nav.gmf-nav {
+	margin-left: 25px;
+	margin-top: 17px;
 }
 
 .theme-dropdown .dropdown-menu {
