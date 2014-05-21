@@ -52,7 +52,7 @@
 						<h3 class="gmf-h3">Vision</h3>
 					</div>
 					<p>
-						To be a fellowship that searches for the lost and invite them into the Kingdom of God.
+						To be a fellowship that searches for the lost and brings them into the Kingdom of God.
 					</p>
 					<div class="well">
 						<p><b>Scripture: Romans 10:14-15</b></p>

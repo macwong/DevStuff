@@ -42,7 +42,7 @@
 					<h2 class="featurette-heading">Grace Mission Fellowship.<br />
 						<span class="text-muted">Welcome.</span></h2>
 					<p class="lead">
-						Our purpose is to make known the Word of God the Father, God the Son Jesus, and God the Holy Spirit, here on Earth as they are in Heaven.
+						Our purpose is to make known the Word of God and God the Father, God the Son Jesus, and God the Holy Spirit, here on Earth as they are in Heaven.
 					</p>
 					<p><a role="button" class="btn btn-success btn-lg" href="AboutUs.aspx">Learn more »</a></p>
 				</div>
@@ -90,7 +90,7 @@
 						</div>
 						<div class="panel-body">
 							<p>
-								Senior Pastor Emori Sauturaga, Associate Pastors Noah and Karen Peyroux, Albert Kamau and Rait Sool are committed to
+								Senior Pastor Emori Sauturaga, Associate Pastors Noah, Karen Peyroux and Albert Kamau are committed to
 								their vision of providing a fellowship that searches for the lost and brings them into the Kingdom of God.
 								With friendly and loving people, we endeavour to make you feel at home with us.
 							</p>
