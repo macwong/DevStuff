@@ -90,7 +90,7 @@
 						</div>
 						<div class="panel-body">
 							<p>
-								Senior Pastor Emori Sauturaga, Associate Pastors Noah, Karen Peyroux and Albert Kamau are committed to
+								Senior Pastor Emori Sauturaga, Associate Pastors Noah & Karen Peyroux and Albert Kamau are committed to
 								their vision of providing a fellowship that searches for the lost and brings them into the Kingdom of God.
 								With friendly and loving people, we endeavour to make you feel at home with us.
 							</p>
