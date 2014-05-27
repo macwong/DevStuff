@@ -114,7 +114,7 @@
 					</div>
 					<!-- /.col-sm-4 -->
 					<div class="col-sm-3 text-center">
-						<img class="img-thumbnail" src="../../Content/Images/logo.gif" />
+						<img class="img-thumbnail" src="../../Content/Images/acc.png" />
 					</div>
 					<!-- /.col-sm-4 -->
 				</div>
